@@ -1,0 +1,141 @@
+
+.bg-image {
+    background-image: url("../imgs/umu\ .png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+.mar{
+    margin-top: 23rem;
+    margin-left: 24rem;
+    
+}
+.center-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 23rem;
+    margin-left: 3rem;
+  }
+  
+
+
+.nav {
+    background-color: grey;
+    margin-left: 2rem; 
+    margin-bottom: 3px; 
+    margin-top: 12px;
+    padding-left: 10px;  
+    padding-right: 10px;  
+    border-radius: 10px; 
+    width: 95%; 
+  }
+  .tim{
+    margin-left: 9rem;
+  }
+  
+body{
+    background-color: white
+}
+
+.div1{
+    padding-left: 20rem;
+    padding-right: 10rem;
+}
+.nyambo{
+    margin-left:70px;
+    height: 500px;
+    margin-bottom: 20px;
+    width: 500px;
+
+}
+.colo{
+    color: #4C747A;
+}
+.tab{
+    
+    margin-left: 5rem;
+}
+/*  */
+.div2{
+    background-color: #4C747A;
+    border-radius: 8px;
+    
+}
+.div3{
+    transform: translateY(-52PX);
+    background-color: white;
+
+}
+.logi{
+    display: flex;
+}
+.testimony{
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    background-color: #4C747A;
+}
+.adel{
+    transform: translate(185%, -50px);
+    position: absolute;
+    
+}
+.phone{
+    width: 45%;
+}
+.btn{
+    background-color: black;
+    color: white;
+    
+}
+.btno{
+    background-color: black;
+    color: white;
+    
+}
+.book{
+    background: rgba(217, 217, 217, 0.2);
+}
+.footer{
+    background-color: rgb(44, 37, 37);
+    padding: 4rem;
+}
+
+.wrap-but-inpt {
+border-radius: 10px;
+width: max-content;
+}
+.schedule{
+    display: flex;
+    flex-direction: row;
+}
+.my-holder {
+    margin-top: -40px;
+}
+.div-cont{
+    display: flex;
+    
+}
+.copy{
+    color: white;
+    margin-left: 57%;
+}
+.twiter{
+    display: flex;
+    /* flex-wrap: nowrap; */
+    border: 1px solid red;
+
+}
+
+.museu{
+    background-image: url("../imgs/blog-03.jpg");
+    /* background-size:contain; */
+    height: 40rem;
+   
+
+}

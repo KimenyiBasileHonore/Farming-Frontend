@@ -1,0 +1,31 @@
+/* Styling for the container of all statistics cards */
+.dashboard-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  /* Styling for each statistics card */
+  .statistics-card {
+    width: 30%;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 12rem;
+  }
+  
+  /* Styling for each statistics card header */
+  .statistics-card h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  /* Styling for the chart container */
+  .react-chartjs-2 {
+    height: 300px;
+    width: 100%;
+  }
+  
+  /* Additional styling for the charts if needed */
+  

@@ -1,0 +1,50 @@
+/* FeedbackList.css */
+
+/* Container for the feedback list */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Heading styles */
+  h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  /* Table styles */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  thead th {
+    background-color: #f2f2f2;
+    padding: 12px;
+    text-align: left;
+    font-weight: bold;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  tbody td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* Button styles */
+  button {
+    padding: 8px 12px;
+    margin: 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #dc3545;
+    color: #fff;
+  }
+  
+  button:hover {
+    background-color: #c82333;
+  }
+  

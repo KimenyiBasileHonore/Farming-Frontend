@@ -1,0 +1,38 @@
+.assigned-tools-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 5rem;
+    margin-left: 5rem;
+    
+  }
+  
+  .tools-header {
+    color: #333;
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .error-message {
+    color: #ff0000;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .tools-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .tool-item {
+    font-size: 18px;
+    margin-bottom: 8px;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+  }
+  
